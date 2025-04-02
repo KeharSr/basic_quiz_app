@@ -47,7 +47,7 @@ class ResultScreen extends StatelessWidget {
             Text(
               'You answered $correctQuestion out of $totalQuestions questions correctly!',
               style: GoogleFonts.poppins(
-                color: const Color.fromARGB(255, 220, 201, 201),
+                color: const Color.fromARGB(255, 221, 195, 195),
                 fontSize: 19,
               ),
             ),
